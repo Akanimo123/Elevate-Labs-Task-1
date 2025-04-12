@@ -1,1 +1,3 @@
 # Elevate-Labs-Task-1
+
+The objective of this task is to clean a raw dataset by transforming it and removing null vaues, duplicates, missing values etc. The dataset Data Cleaning.xlsx. The Dirty worksheet in this particular workbook contains a badly structured dataset which I later cleaned on the Power Query Editor. The Sales worksheet is the cleaned version of this dataset. The steps I undertook to clean this dataset can be seen in the screenshot on this repository. After cleaning the data, I then closed the Power Query Editor and loaded the cleaned data back into Excel from the Close command group on the Home tab.
